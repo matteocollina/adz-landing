@@ -1,0 +1,19 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="64" height="64">
+	<title>ADZ fire-svg</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(387.63,-388.277,356.963,356.368,306.143,735.024)">
+			<stop offset="0" stop-color="#5941e9"/>
+			<stop offset=".15" stop-color="#5e40e9"/>
+			<stop offset=".35" stop-color="#6f3de9"/>
+			<stop offset=".58" stop-color="#8b38ea"/>
+			<stop offset=".83" stop-color="#b132eb"/>
+			<stop offset="1" stop-color="#d12ded"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: #ffffff } 
+	</style>
+	<path fill-rule="evenodd" class="s0" d="m427.6 459.2c80.6-27.8 94.3-100.1 84-166.7 0-2.4 2.1-4.1 4.1-3.4 77.2 37.7 163.9 120 163.9 243.4 0 94.7-73.4 178.3-180 178.3-94.6 4.3-174.8-68.8-179.1-163.4-2.8-62.7 28.8-121.9 82.4-154.4 2.1-1.4 4.8 0 4.8 2.4 1 12.7 4.5 44.6 18.5 63.8h1.4z"/>
+	<path fill-rule="evenodd" class="s1" d="m435 572c0 0 91.3-9.9 126.7-105.5 0 0 5.7-14.1 10.6-12.7 5 1.4 37 84-5.4 131.4-42.5 47.4-104.8 39.9-129.5 22.9 0 0-35.3-23.7-2.4-36.1z"/>
+</svg>
